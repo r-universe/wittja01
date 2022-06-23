@@ -3,3 +3,8 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "servosphereR"]
+	path = servosphereR
+	url = https://github.com/wittja01/servospherer
+	shallow = true
+	registered = true
